@@ -6,6 +6,7 @@ made new text.
 privet new coup
 
 Opiat izmienienia
+Вношу изменения в ветке фича
 
 
 Внесение изменнений в ветку мэйн.
