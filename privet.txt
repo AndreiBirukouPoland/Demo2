@@ -7,3 +7,5 @@ privet new coup
 
 Opiat izmienienia
 Made konflikt in main
+Made konflikt in feature
+
